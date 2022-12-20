@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int n, m;  // n=no of process  m=no of resource
+    int n, m;  // n = no of process  m = no of resource
 
     printf("Enter total no of processes: ");
     scanf("%d",&n);
